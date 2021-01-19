@@ -21,7 +21,8 @@
 		"oderwat.indent-rainbow",
 		"ms-ceintl.vscode-language-pack-ja",
 		"esbenp.prettier-vscode",
-		"visualstudioexptteam.vscodeintellicode"
+		"visualstudioexptteam.vscodeintellicode",
+		"stylelint.vscode-stylelint"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
