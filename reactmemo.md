@@ -37,13 +37,13 @@ eslint-plugin-react@^7.21.5 @typescript-eslint/eslint-plugin@latest eslint-confi
 
 NO で答えたものを事前に個別インストールしておく
 
-`yarn add -D @typescript-eslint/parser`
-`yarn add -D @typescript-eslint/eslint-plugin`
 `yarn add -D eslint-plugin-react`
-`yarn add -D eslint-plugin-react-hooks`
+`yarn add -D @typescript-eslint/eslint-plugin`
+`yarn add -D eslint-config-airbnb`
 `yarn add -D eslint-plugin-import`
 `yarn add -D eslint-plugin-jsx-a11y`
-`yarn add -D eslint-config-airbnb`
+`yarn add -D eslint-plugin-react-hooks`
+`yarn add -D @typescript-eslint/parser`
 
 ## semantic-ui-react インストール
 
@@ -62,3 +62,21 @@ index.tsx に追加 `import 'semantic-ui-css/semantic.min.css'`
 
 - useEffect の第 2 引数に依存配列を渡すと componentDidMount
 - useEffect の第 2 引数に何も渡さないと componentDidUpdate
+
+
+
+- 0kara
+- yarn
+- yarn upgrade --latest
+`yarn add -D eslint`  
+`yarn add -D eslint-config-prettier`
+`yarn add -D eslint-plugin-react`
+`yarn add -D @typescript-eslint/eslint-plugin`
+`yarn add -D eslint-config-airbnb`
+`yarn add -D eslint-plugin-import`
+`yarn add -D eslint-plugin-jsx-a11y`
+`yarn add -D eslint-plugin-react-hooks`
+`yarn add -D @typescript-eslint/parser`
+ yarn add -D typesync
+ yarn add -D prettier
+ `yarn add -D eslint-config-prettier`
